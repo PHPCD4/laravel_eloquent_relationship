@@ -1,0 +1,15 @@
+<snippet>
+	<tabTrigger>hidden</tabTrigger>
+	<!-- <scope>source.php</scope> -->
+	<content><![CDATA[
+/**
+ * The attributes that should be hidden for arrays.
+ *
+ * @var array
+ */
+protected $hidden = [
+    'password',
+];
+
+]]></content>
+</snippet>

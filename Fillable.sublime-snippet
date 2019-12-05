@@ -1,6 +1,6 @@
 <snippet>
 	<tabTrigger>fillable</tabTrigger>
-	<scope>source.php</scope>
+	<!-- <scope>source.php</scope> -->
 	<content><![CDATA[
 /**
  * The attributes that are mass assignable.
@@ -8,7 +8,7 @@
  * @var array
  */
 protected \$fillable = [
-	'${1:FIELD}',
+	'${1:name}',
 ];
 
 ]]></content>

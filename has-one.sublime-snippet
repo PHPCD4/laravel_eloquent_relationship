@@ -1,5 +1,4 @@
 <snippet>
-	<tabTrigger>hasOne</tabTrigger>
 	<scope>source.php</scope>
 	<description>Relation::hasOne</description>
 	<content><![CDATA[

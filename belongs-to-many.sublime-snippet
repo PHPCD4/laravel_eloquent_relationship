@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>belongsToMany</tabTrigger>
+	<scope>source.php</scope>
+	<description>Relation::belongsToMany</description>
+	<content><![CDATA[
+public function ${1:relationship}()
+{
+    return \$this->belongsToMany(${1/^(.+)$/(?1\u$1:)/g}::class);
+}
+]]></content>
+</snippet>

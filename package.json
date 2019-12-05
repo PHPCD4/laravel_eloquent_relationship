@@ -1,0 +1,22 @@
+{
+  "name": "laravel_eloquent_relationship",
+  "version": "1.0.0",
+  "description": "Sublime Snippets for Laravel Relationship",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golamsorwar/laravel_eloquent_relationship.git"
+  },
+  "keywords": [
+    "laravel",
+    "sublime-text",
+    "sublime-snippets",
+    "sublime-laravel-eloquent-relationship-snippets",
+    "sublime-laravel-eloquent-relationship"
+  ],
+  "author": "Golam Sorwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/golamsorwar/laravel_eloquent_relationship/issues"
+  },
+  "homepage": "https://github.com/golamsorwar/laravel_eloquent_relationship#readme"
+}

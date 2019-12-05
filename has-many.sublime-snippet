@@ -1,0 +1,11 @@
+<snippet>
+	<tabTrigger>hasMany</tabTrigger>
+	<scope>source.php</scope>
+	<description>Relation::hasMany</description>
+	<content><![CDATA[
+public function ${1:user}()
+{
+    return \$this->hasMany(${1/^(.+)$/(?1\u$1:)/g}::class);
+}
+]]></content>
+</snippet>

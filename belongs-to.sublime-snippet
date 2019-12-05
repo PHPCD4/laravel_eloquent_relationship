@@ -1,7 +1,6 @@
 <snippet>
 	<tabTrigger>belongsTo</tabTrigger>
 	<scope>source.php</scope>
-	<description>Relation::belongsTo</description>
 	<content><![CDATA[
 public function ${1:user}()
 {

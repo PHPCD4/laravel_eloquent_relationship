@@ -1,7 +1,6 @@
 <snippet>
 	<tabTrigger>hasOneThrough</tabTrigger>
 	<scope>source.php</scope>
-	<description>Relation::hasOneThrough</description>
 	<content><![CDATA[
 public function ${1:user}${2:History}()
 {

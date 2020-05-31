@@ -1,3 +1,3 @@
-# laravel_eloquent_relationship
+# laravel Eloquent Relationship
 
 Sublime Snippets for Laravel Relationship

@@ -4,7 +4,7 @@
   "description": "Sublime Snippets for Laravel Relationship",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/golamsorwar/laravel_eloquent_relationship.git"
+    "url": "git+https://github.com/PHPCD4/laravel_eloquent_relationship.git"
   },
   "keywords": [
     "laravel",
@@ -16,7 +16,7 @@
   "author": "Golam Sorwar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/golamsorwar/laravel_eloquent_relationship/issues"
+    "url": "https://github.com/PHPCD4/laravel_eloquent_relationship/issues"
   },
-  "homepage": "https://github.com/golamsorwar/laravel_eloquent_relationship#readme"
+  "homepage": "https://github.com/PHPCD4/laravel_eloquent_relationship#readme"
 }
